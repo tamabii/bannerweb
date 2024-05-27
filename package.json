@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "belajartea": "^1.1.5",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "tommyvercelweb": "^1.1.2"
+  },
+  "name": "webpagepassword",
+  "version": "1.0.1",
+  "main": "cek.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamabii/bannerweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamabii/bannerweb/issues"
+  },
+  "homepage": "https://github.com/tamabii/bannerweb#readme",
+  "description": ""
+}
